@@ -1,4 +1,4 @@
-# 🚀 DroxiCal v1.4
+# 🚀 DroxiCal v1.5
 
 ## Features
 
